@@ -179,7 +179,7 @@ checkpoint 时，算子或 sink 侧往往需要同步：写状态、与外部存
 
 #### **检查点持续时间**
 
-![cp_interval_line](./assets/cp_interval_line.png)
+![cp_interval_line](./assets/cp_interval.png)
 
 ##### 现象
 
